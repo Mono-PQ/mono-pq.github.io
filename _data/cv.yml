@@ -2,96 +2,72 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: PQ Tan 
+    - name: Location
+      value: Singapore 🇸🇬
     - name: Languages
-      value: English, German
+      value: English, Chinese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Masters of Science in Computer Science
+      institution: Georgia Institute of Technology
+      year: 2023 - 2025 (est.)
+    - title: Bachelor in Arts (Economics)
+      institution: National University of Singapore
+      year: 2009 - 2012
+    - title: Specialist Diploma in Data Analytics and Data Engineering
+      institution: Digipen Institute of Technology, Singapore
+      year: 2021 - 2022
+    - title: Specialist Diploma in Data Science (Artificial Intelligence)
+      institution: Singapore Polytechnic
+      year: 2018 - 2019
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Senior Manager, Research Analytics
+      institution: Communications Group
+      year: Jul 2023 - Present
+    - title: Data Analyst
+      institution: DBS Bank
+      year: Dec 2021 - May 2023
+    - title: Executive, Group Risk Services
+      institution: SingHealth
+      year: May 2021 - Nov 2021
+    - title: Assistant Manager, Data Protection and Governance
+      institution: National University of Polyclinics
+      year: Nov 2020 - May 2021
+    - title: Manager
+      institution: National Institute of Education
+      year: Jul 2015 - Nov 2020
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Other Certifications
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Artificial Intelligence Nanodegree
+      institution: Heicoders Academy
+      year: 2023
+    - title: AI300 - Deploying Machine Learning Systems to the Cloud
+      institution: Heicoders Academy
+      year: 2023
+    - title: AWS Certified Cloud Practitioner
+      institution: Amazon Web Services
+      year: 2023
+    - title: Data Scientist with Python
+      institution: DataCamp
+      year: 2022
+    - title: UX Design Bootcamp
+      institution: Vertical Institute
+      year: 2022
+    - title: AI200 - Applied Machine Learning
+      institution: Heicoders Academy
+      year: 2021
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Reading, Writing, Traveling, Watching a Good Movie Series, Coding, Music, ...
