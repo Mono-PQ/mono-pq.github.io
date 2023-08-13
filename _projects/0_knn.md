@@ -4,7 +4,7 @@ title: K-Nearest Neighbour (KNN) from scratch
 description: Writing KNN functions from scratch to classify abalone into different classes based on their age.
 img: 
 importance: 1
-category: course-work
+category: coursework
 ---
 
 ### TL;DR
