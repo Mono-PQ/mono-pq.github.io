@@ -3,8 +3,8 @@ github_users:
 
 # only public repo
 github_repos:
-  - Mono-PQ/Mono-PQ.github.io
+  - Mono-PQ/ai300-capstone
   - Mono-PQ/atm_oop
   - Mono-PQ/course_work
+  - Mono-PQ/Mono-PQ.github.io
   - Mono-PQ/frontend-showcase
-  - Mono-PQ/ai300-capstone
