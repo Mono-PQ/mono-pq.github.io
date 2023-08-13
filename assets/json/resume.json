@@ -96,28 +96,28 @@
   "certificates": [
     {
       "name": "Artificial Intelligence Nanodegree",
-      "date": "2023-07-01",
-      "issuer": "Heicoders Academy"
+      "issuer": "Heicoders Academy",
+      "date": "2023-07-01"
     }, 
     {
       "name": "AI300: Deploying Machine Learning Systems to the Cloud",
-      "date": "2023-06-01",
-      "issuer": "Heicoders Academy"
+      "issuer": "Heicoders Academy",
+      "date": "2023-06-01"
     },
     {
       "name": "AWS Certified Cloud Practitioner",
-      "date": "2023-03-01",
-      "issuer": "Amazon Web Services (AWS)"
+      "issuer": "Amazon Web Services (AWS)", 
+      "date": "2023-03-01"
     },
     {
       "name": "Data Scientist with Python",
-      "date": "2022-10-01",
-      "issuer": "Datacamp"
+      "issuer": "Datacamp", 
+      "date": "2022-10-01"
     },
     {
       "name": "UX Design Bootcamp",
-      "date": "2022-07-01",
-      "issuer": "Vertical Institute"
+      "issuer": "Vertical Institute",
+      "date": "2022-07-01"
     },
     {
       "name": "AI200: Applied Machine Learning",
