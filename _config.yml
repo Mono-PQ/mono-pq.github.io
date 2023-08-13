@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Hi, 
+first_name: Hi, I am 
 middle_name: PQ
-last_name: Tan
+last_name: Tan ☃️
 email: tpeiquin@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple portfolio website and blog for a data analyst.
@@ -43,7 +43,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false 
 
 # -----------------------------------------------------------------------------
 # Layout
