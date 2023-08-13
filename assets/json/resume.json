@@ -95,34 +95,34 @@
   "awards": [],
   "certificates": [
     {
-      "title": "Artificial Intelligence Nanodegree",
+      "name": "Artificial Intelligence Nanodegree",
       "date": "2023-07-01",
-      "institution": "Heicoders Academy"
+      "issuer": "Heicoders Academy"
     }, 
     {
-      "title": "AI300: Deploying Machine Learning Systems to the Cloud",
+      "name": "AI300: Deploying Machine Learning Systems to the Cloud",
       "date": "2023-06-01",
-      "institution": "Heicoders Academy"
+      "issuer": "Heicoders Academy"
     },
     {
-      "title": "AWS Certified Cloud Practitioner",
+      "name": "AWS Certified Cloud Practitioner",
       "date": "2023-03-01",
-      "institution": "Amazon Web Services (AWS)"
+      "issuer": "Amazon Web Services (AWS)"
     },
     {
-      "title": "Data Scientist with Python",
+      "name": "Data Scientist with Python",
       "date": "2022-10-01",
-      "institution": "Datacamp"
+      "issuer": "Datacamp"
     },
     {
-      "title": "UX Design Bootcamp",
+      "name": "UX Design Bootcamp",
       "date": "2022-07-01",
-      "institution": "Vertical Institute"
+      "issuer": "Vertical Institute"
     },
     {
-      "title": "AI200: Applied Machine Learning",
+      "name": "AI200: Applied Machine Learning",
       "date": "2021-12-01",
-      "institution": "Heicoders Academy"
+      "issuer": "Heicoders Academy"
     }
   ],
   "publications": [],
