@@ -17,12 +17,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm PQ Tan. I tackle complex data sets to extract valuable insights that help businesses to achieve their objectives and improve efficience and performance. By crafting compelling visalisations, I can help stakeholders grasp the underlying trends and make strategic choices at a glance. 
+Hi! I'm PQ Tan. I tackle complex data sets to extract valuable insights that help businesses achieve their key performance indicators (KPIs) and increase efficiency and productivity. By crafting compelling visalisations, I can help stakeholders grasp the underlying trends and make strategic choices more effectively. 
 
 I am a currently part-time graduate student at Georgia Institute of Technology studying computer science. My passion for continous learning and exploration of emerging technologies keep me at the forefront of advancements in machine learning and software development field. 
 
 Coupled with a solid foundation in data analysis and governance, I am open to opportunities where my skills and experience can bring value to your businesses.
 
-**Technical:** `Python`,`SQL`, `Pandas`, `Numpy`, `Scikit-learn`, `Git & Github`, `Plotly/Dash`, `Matplotlib`, `Seaborn`, `Tableau`, `Power BI`, `Apache Superset`, `Pyspark`, `Collibra`, `Cloudera Datascience Workbench`, `Docker`, `HTML`, `CSS`, `Bootstrap`, `Flask`, `AWS EC2`
+**Technical:** `Python`,`SQL`, `Pandas`, `Numpy`, `Scikit-learn`, `Git & Github`, `Plotly/Dash`, `Matplotlib`, `Seaborn`, `Tableau`, `Power BI`, `Apache Superset`, `Pyspark`, `Collibra`, `Cloudera`, `Docker`, `HTML`, `CSS`, `Bootstrap`, `Flask`, `AWS EC2`
 
 **Others:** `Word/PowerPoint/Excel`, `PowerAutomate`, `PowerApps`, `SharePoint`, `Atlassian Jira/Confluence`, `Affinity Designer`, `Adobe Illustrator`, `Canva`, `Figma`, `Miro`, `Wondershare Filmora`
